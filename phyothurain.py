@@ -21,12 +21,11 @@ cd fb-cracker
 
 pip2 install -r requirements.txt
 
-
-<h2>HOW TO USE:</h2>
-
 python fb-phyothurain.py
 
 login your fb account
+
+
 
 
 
